@@ -1,0 +1,6 @@
+{
+  "attrsToDelete": [
+    "data-enpassusermodified",
+    "data-sort"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "arguments": ["desktop", "tablet", "mobile"],
+  "main": "https://s3-eu-west-1.amazonaws.com/philips-pcs/",
+  "desktop": "",
+  "tablet": "sm/",
+  "mobile": "xs/"
+}

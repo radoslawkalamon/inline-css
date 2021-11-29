@@ -1,0 +1,15 @@
+{
+  "configObjectBrowser": {},
+  "configObjectPage": {
+    "waitUntil": "networkidle2"
+  },
+  "HTMLSaveToFile": true,
+  "HTMLSaveDirectory": "./output/",
+  "HTMLExtractSelector": "body",
+  "HTMLMinify": false,
+  "logsDirectory": "./logs/",
+  "pluginsDirectoryBefore": "./plugins/before/",
+  "pluginsDirectoryAfter": "./plugins/after/",
+  "pluginsFilenameConfig": "config.json",
+  "valueMinimumWidth": 320
+}
